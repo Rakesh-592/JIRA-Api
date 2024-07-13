@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "f5c8172e-41aa-45d4-8b80-f09bcc53f866",
+		"name": "JIRA API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34959975"
+	},
+	"item": [
+		{
+			"name": "Create Bug",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Add Attachment",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
